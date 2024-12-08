@@ -46,7 +46,7 @@ Each model is evaluated with metrics such as accuracy, precision, and recall to 
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/Daedalus02/Football-predictions.git
-    cd premier-league-prediction
+    cd Football-predictions
     ```
 
 2. **Create a virtual environment**:
