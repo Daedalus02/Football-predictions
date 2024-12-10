@@ -97,4 +97,4 @@ Premier League match data is collected using web scraping scripts included in th
 Contributions are welcome! Feel free to open an `issue` or submit a `pull request` for suggestions or improvements.
 
 ---
- *Happy predicting outcomes!*
+ *Happy predictions outcomes!*
